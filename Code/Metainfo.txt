@@ -1,1 +1,6 @@
-
+Name of Quantlet: Code
+Published in: Explainable AI for Electricity Price Anomaly Detection
+Description: This is the code for our paper
+Keywords: Code
+Author: Alexandru-Victor ANDREI, Daniel Traian PELE 
+Submitted: 20.06.2025
