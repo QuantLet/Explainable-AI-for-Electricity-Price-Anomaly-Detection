@@ -8,4 +8,4 @@ Keywords: XAI; SHAP values; electricity; price forecasting; Machine Learning
 
 Author: Alexandru-Victor ANDREI, Daniel Traian PELE
 
-Submitted: Not yet
+Submitted: 20.06.2025
